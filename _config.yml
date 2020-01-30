@@ -1,11 +1,11 @@
 # Site settings
 author: Rebekah
-title: 
+title: Follow the red block code
 header-img: img/home-bg.png
 email: rebekahgennick92@gmail.com
 copyright_name: Rebekah
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Learning to code, one step at a time.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  bekahberry
